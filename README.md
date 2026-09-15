@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hola, soy Tomislav Salvarica
 
-<!--
-**tomislav-salvarica/tomislav-salvarica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Matemático en transición profesional hacia Data Analytics
 
-Here are some ideas to get you started:
+Graduado en **Matemáticas**, con varios años de experiencia profesional en **Atención al Cliente**, actualmente enfocado en realizar una transición hacia el área de **Data Analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi formación matemática me ha permitido desarrollar una base sólida en razonamiento lógico, análisis, resolución de problemas y trabajo con información cuantitativa.
+
+Actualmente estoy complementando esa base con herramientas orientadas al análisis de datos y al entorno empresarial, trabajando con **Excel y SQL**, y ampliando progresivamente mis conocimientos en **Power Query, Power BI y DAX**.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- SQL
+- Excel
+- Power BI
+- Power Query
+- DAX
+- Análisis de datos
+- Análisis cuantitativo
+- Visualización de datos
+- Reporting
+- Análisis orientado a negocio
+
+---
+
+## 🚀 Actualmente estoy aprendiendo y desarrollando
+
+- Consultas y análisis de datos con SQL
+- Limpieza, clasificación y transformación de información
+- Análisis de datos en Excel
+- Creación de dashboards
+- Visualización de información
+- Análisis de KPIs
+- Resolución de problemas de negocio mediante datos
+
+---
+
+## 📂 Proyectos destacados
+
+### 📈 Marketing Campaign Budget Analysis
+
+Análisis de campañas de marketing utilizando SQL para:
+
+- Clasificar campañas según su presupuesto.
+- Comparar el gasto real frente al presupuesto asignado.
+- Detectar desviaciones presupuestarias.
+- Aplicar lógica condicional mediante CASE WHEN.
+- Transformar datos en información útil para el análisis.
+
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/01-marketing-campaign-budget-analysis)
+
+---
+
+## 🎯 Objetivo profesional
+
+Mi objetivo es desarrollar mi carrera en posiciones relacionadas con:
+
+- Data Analyst Junior
+- Reporting Analyst
+- Business Intelligence Junior
+- Operations Analyst
+- Customer Experience Analyst
+- Data & Reporting Analyst
+
+Busco combinar mi formación en **Matemáticas**, mi experiencia profesional trabajando con clientes y operaciones, y mis nuevas competencias técnicas en análisis de datos.
+
+Mi objetivo es seguir desarrollando proyectos que demuestren mi capacidad para analizar información, detectar patrones y convertir datos en conocimiento útil para la toma de decisiones.
+
+---
+
+## 📫 Conecta conmigo
+
+🔗 [LinkedIn](https://www.linkedin.com/in/tomislav-salvarica)
+
+💻 [GitHub](https://github.com/tomislav-salvarica)
