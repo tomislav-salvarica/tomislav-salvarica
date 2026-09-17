@@ -51,6 +51,24 @@ Análisis de campañas de marketing utilizando SQL para:
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/01-marketing-campaign-budget-analysis)
 
+
+### 📊 Ranking de empleados por coste anual | SQL + Excel
+
+Proyecto práctico de análisis de datos para identificar los tres empleados con mayor coste anual en cada departamento.
+
+**Herramientas utilizadas:** MySQL Workbench y Microsoft Excel.
+
+**Competencias aplicadas:**
+
+* Funciones de ventana `RANK()` y `PARTITION BY`.
+* Subconsultas y clasificación de datos.
+* Exportación de resultados SQL a Excel.
+* Elaboración de tablas dinámicas.
+* Visualización y comparación de costes mediante gráficos.
+
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/02-employee-cost-ranking)
+
+
 ---
 
 ## 🎯 Objetivo profesional
