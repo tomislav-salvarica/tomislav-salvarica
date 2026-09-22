@@ -76,7 +76,8 @@ Desarrollé una consulta SQL para calcular indicadores de gestión por empleado:
 
 **Tecnologías:** MySQL, SQL, CASE, COUNT, AVG, GROUP BY, HAVING y ORDER BY.
 
-🔗 [Ver proyecto completo](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/03-customer-support-analysis)
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/03-customer-support-analysis)
+
 ---
 
 ## 🎯 Objetivo profesional
