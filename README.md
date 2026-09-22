@@ -39,7 +39,7 @@ Actualmente estoy complementando esa base con herramientas orientadas al anális
 
 ## 📂 Proyectos destacados
 
-### 📈 Marketing Campaign Budget Analysis
+### 📈 01-Marketing Campaign Budget Analysis
 
 Análisis de campañas de marketing utilizando SQL para:
 
@@ -52,7 +52,7 @@ Análisis de campañas de marketing utilizando SQL para:
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/01-marketing-campaign-budget-analysis)
 
 
-### 📊 Ranking de empleados por coste anual | SQL + Excel
+### 📊 02-Ranking de empleados por coste anual | SQL + Excel
 
 Proyecto práctico de análisis de datos para identificar los tres empleados con mayor coste anual en cada departamento.
 
@@ -68,7 +68,15 @@ Proyecto práctico de análisis de datos para identificar los tres empleados con
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/02-employee-cost-ranking)
 
+### 📊 03-Customer Support Analysis | SQL
 
+Análisis de 500 registros de soporte al cliente mediante MySQL.
+
+Desarrollé una consulta SQL para calcular indicadores de gestión por empleado: volumen de tickets, estados de resolución, tiempo promedio de gestión y porcentaje de resolución.
+
+**Tecnologías:** MySQL, SQL, CASE, COUNT, AVG, GROUP BY, HAVING y ORDER BY.
+
+🔗 [Ver proyecto completo](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/03-customer-support-analysis)
 ---
 
 ## 🎯 Objetivo profesional
