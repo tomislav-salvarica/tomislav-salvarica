@@ -78,6 +78,28 @@ Desarrollé una consulta SQL para calcular indicadores de gestión por empleado:
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/03-customer-support-analysis)
 
+### 🏢 04. Análisis de Riesgo de Activos por Sucursal | SQL
+
+Proyecto práctico de análisis de datos enfocado en evaluar el estado de los activos de diferentes sucursales e identificar posibles niveles de riesgo operativo.
+
+El análisis combina información de sucursales y activos para calcular:
+
+- Total de activos por estado.
+- Coste total de los activos.
+- Inversión de la sucursal.
+- Porcentaje de activos inactivos o en mantenimiento.
+- Clasificación de riesgo por sucursal.
+
+Para desarrollar el análisis utilicé CTEs encadenados, `INNER JOIN`, `COUNT()`, `SUM()`, `MAX()`, `ROUND()`, `CASE`, `GROUP BY`, `HAVING` y `ORDER BY`.
+
+Las sucursales se clasifican como:
+
+- **Riesgo alto:** 50 % o más.
+- **Riesgo medio:** entre 25 % y 49,99 %.
+- **Riesgo bajo:** menos del 25 %.
+
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/04-branch-asset-risk-analysis)
+
 ---
 
 ## 🎯 Objetivo profesional
