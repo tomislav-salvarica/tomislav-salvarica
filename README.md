@@ -111,6 +111,7 @@ Análisis de ventas completadas por canal utilizando MySQL, SQL y Power BI.
 - Dashboard creado en Power BI
 
 🔗 [Ver proyecto completo](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/05-sales-channel-analysis)
+
 ---
 
 ## 🎯 Objetivo profesional
