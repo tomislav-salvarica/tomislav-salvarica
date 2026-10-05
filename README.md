@@ -103,6 +103,7 @@ Las sucursales se clasifican como:
 ### 📊 05. Análisis de ventas por canal | SQL + Power BI
 
 Análisis de ventas completadas por canal utilizando MySQL, SQL y Power BI.
+Durante el análisis utilicé `WHERE`, `GROUP BY`, `COUNT()` y `SUM()` para preparar los datos antes de visualizarlos en Power BI.
 
 - 433 ventas completadas
 - 35.400 € en ingresos
@@ -110,7 +111,7 @@ Análisis de ventas completadas por canal utilizando MySQL, SQL y Power BI.
 - Comparación de rendimiento por canal
 - Dashboard creado en Power BI
 
-🔗 [Ver proyecto completo](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/05-sales-channel-analysis)
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/05-sales-channel-analysis)
 
 ---
 
