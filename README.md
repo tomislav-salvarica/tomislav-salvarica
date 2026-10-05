@@ -100,6 +100,17 @@ Las sucursales se clasifican como:
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/04-branch-asset-risk-analysis)
 
+### 📊 05. Análisis de ventas por canal | SQL + Power BI
+
+Análisis de ventas completadas por canal utilizando MySQL, SQL y Power BI.
+
+- 433 ventas completadas
+- 35.400 € en ingresos
+- 846 unidades vendidas
+- Comparación de rendimiento por canal
+- Dashboard creado en Power BI
+
+🔗 [Ver proyecto completo](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/05-sales-channel-analysis)
 ---
 
 ## 🎯 Objetivo profesional
