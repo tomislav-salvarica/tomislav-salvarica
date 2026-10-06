@@ -113,6 +113,17 @@ Durante el análisis utilicé `WHERE`, `GROUP BY`, `COUNT()` y `SUM()` para prep
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/05-sales-channel-analysis)
 
+### 📊 Proyecto 06 — Gestión de tickets | SQL + Power BI
+
+Análisis de 500 tickets de soporte mediante SQL, Power Query, DAX y Power BI.
+
+- 500 tickets analizados.
+- 115 tickets pendientes de gestión (23 %).
+- Análisis de incidencias por prioridad y estado.
+- Dashboard interactivo con KPIs y barra de progreso.
+
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/06-ticket-priority-status-analysis)
+
 ---
 
 ## 🎯 Objetivo profesional
