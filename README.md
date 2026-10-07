@@ -124,6 +124,18 @@ Análisis de 500 tickets de soporte mediante SQL, Power Query, DAX y Power BI.
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/06-ticket-priority-status-analysis)
 
+## 📊 Proyecto 07 — Análisis de desviación presupuestaria de campañas | SQL + Power BI
+
+Análisis de campañas de marketing mediante SQL, Power Query, DAX y Power BI para identificar sobrecostes y desviaciones presupuestarias.
+
+- 80 campañas sobre presupuesto.
+- 127,37 mil € de sobrecoste total.
+- Desviación media del 4,44 %.
+- Análisis de relación entre duración y desviación presupuestaria.
+- Dashboard interactivo con KPIs, rankings y tabla Top 15.
+
+🔗 [Ver proyecto en GitHub](./07-campaign-budget-deviation-analysis)
+
 ---
 
 ## 🎯 Objetivo profesional
