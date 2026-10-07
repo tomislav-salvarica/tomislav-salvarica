@@ -124,7 +124,7 @@ Análisis de 500 tickets de soporte mediante SQL, Power Query, DAX y Power BI.
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/06-ticket-priority-status-analysis)
 
-## 📊 Proyecto 07 — Análisis de desviación presupuestaria de campañas | SQL + Power BI
+### 📊 Proyecto 07 — Análisis de desviación presupuestaria de campañas | SQL + Power BI
 
 Análisis de campañas de marketing mediante SQL, Power Query, DAX y Power BI para identificar sobrecostes y desviaciones presupuestarias.
 
