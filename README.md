@@ -134,7 +134,7 @@ Análisis de campañas de marketing mediante SQL, Power Query, DAX y Power BI pa
 - Análisis de relación entre duración y desviación presupuestaria.
 - Dashboard interactivo con KPIs, rankings y tabla Top 15.
 
-🔗 [Ver proyecto en GitHub](./07-campaign-budget-deviation-analysis)
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/07-campaign-budget-deviation-analysis)
 
 ---
 
