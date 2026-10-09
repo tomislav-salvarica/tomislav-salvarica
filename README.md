@@ -136,6 +136,21 @@ Análisis de campañas de marketing mediante SQL, Power Query, DAX y Power BI pa
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/07-campaign-budget-deviation-analysis)
 
+
+### 📊 Proyecto 08 — Análisis salarial de Recursos Humanos | SQL + Power BI + DAX
+
+Análisis de salarios anuales y distribución de empleados activos mediante MySQL, Power BI y DAX. Desarrollo de un dashboard interactivo con indicadores salariales, comparativas por departamento y filtros dinámicos.
+
+- **466 empleados activos** distribuidos en 7 departamentos.
+- **33,58 mil €** de salario promedio anual general.
+- **35.542,01 €** de salario promedio en Recursos Humanos, el departamento con mayor promedio.
+- **134 empleados en Sales**, equivalentes al 28,8 % del total.
+- Cálculo del salario promedio ponderado mediante DAX.
+- Dashboard interactivo con KPIs, gráficos, tabla comparativa y conclusiones.
+
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/08-analisis-salarial-rrhh)
+
+
 ---
 
 ## 🎯 Objetivo profesional
