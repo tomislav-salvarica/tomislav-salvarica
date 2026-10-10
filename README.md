@@ -151,6 +151,22 @@ Análisis de salarios anuales y distribución de empleados activos mediante MySQ
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/08-analisis-salarial-rrhh)
 
 
+
+### 📊 Proyecto 09 — Análisis de ingresos por ventas | SQL + Power BI + DAX
+
+Análisis de la evolución de ingresos procedentes de ventas completadas entre enero de 2024 y septiembre de 2026, mediante MySQL, Power BI y DAX.
+
+- **33 períodos mensuales analizados** entre 2024 y 2026.
+- **35,40 mil €** de ingresos totales.
+- **2025 concentra el 35,63 %** de los ingresos registrados.
+- **Agosto** es el mes con mayor facturación acumulada: 4,86 mil €.
+- Dashboard interactivo con gráficos de líneas, dona y filtros por año.
+- Cuatro indicadores KPI dinámicos mediante DAX.
+- Análisis de tendencias y comparación de períodos, considerando que 2026 tiene datos parciales.
+
+🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/09-analisis-ingresos-ventas)
+  
+
 ---
 
 ## 🎯 Objetivo profesional
