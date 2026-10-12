@@ -165,7 +165,24 @@ Análisis de la evolución de ingresos procedentes de ventas completadas entre e
 - Análisis de tendencias y comparación de períodos, considerando que 2026 tiene datos parciales.
 
 🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/09-analisis-ingresos-ventas)
-  
+
+
+### 📊 Proyecto 10 — Análisis de ventas y rendimiento comercial | SQL + Power BI + DAX
+
+Análisis de ventas completadas mediante MySQL, SQL y Power BI, combinando información de productos y transacciones mediante `INNER JOIN` para evaluar ingresos, categorías, canales de venta y evolución temporal.
+
+- **433 ventas completadas** y 846 unidades vendidas.
+- **35.399,80 €** de ingresos totales.
+- **Kitchen Scale Plus 137:** producto líder con 660,11 € de facturación.
+- **Electronics:** categoría con mayor participación (30,54 %).
+- **Website:** canal con mayores ingresos.
+- Validación de integridad de datos antes y después del `INNER JOIN`.
+- Ranking Top 10 dinámico, segmentación por categoría y medidas DAX.
+- **Informe Power BI de dos páginas:** resumen ejecutivo y conclusiones comerciales.
+- Navegación interactiva, análisis temporal y recomendaciones basadas en datos.
+
+🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/10-analisis-rendimiento-comercial)
+
 
 ---
 
