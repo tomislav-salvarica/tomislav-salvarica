@@ -184,6 +184,22 @@ Análisis de ventas completadas mediante MySQL, SQL y Power BI, combinando infor
 🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/10-analisis-rendimiento-comercial)
 
 
+### 📊 Proyecto 11 — Clientes sin compras | SQL + Power BI
+
+Análisis de clientes sin compras registradas mediante SQL y Power BI, utilizando `LEFT JOIN` e `IS NULL` para identificar oportunidades de análisis comercial.
+
+- **500 clientes** analizados, de los cuales **170 (34 %)** no registran compras.
+- **143 clientes activos sin compras**, identificados mediante medidas DAX.
+- Análisis de clientes por segmento, estado, ciudad y antigüedad desde el registro.
+- Visualización geográfica de ciudades españolas mediante **Azure Maps**.
+- Creación de indicadores dinámicos y filtros interactivos.
+- **38 clientes activos sin compras** con cuatro años o más desde su registro.
+- Dashboard Power BI de dos páginas con navegación y tabla de seguimiento.
+
+**Herramientas:** MySQL, SQL, Power Query, Power BI, DAX y Azure Maps.
+
+🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/11-clientes-sin-compras)
+
 ---
 
 ## 🎯 Objetivo profesional
