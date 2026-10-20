@@ -1,226 +1,147 @@
-# 👋 Hola, soy Tomislav Salvarica
 
-## 📊 Matemático en transición profesional hacia Data Analytics
+# 📊 Portfolio de Análisis de Datos | SQL · Power BI · DAX · Excel
 
-Graduado en **Matemáticas**, con varios años de experiencia profesional en **Atención al Cliente**, actualmente enfocado en realizar una transición hacia el área de **Data Analytics**.
+¡Bienvenido a mi portfolio!
 
-Mi formación matemática me ha permitido desarrollar una base sólida en razonamiento lógico, análisis, resolución de problemas y trabajo con información cuantitativa.
+Soy **Tomislav Salvarica**, profesional con formación en Matemáticas y experiencia en atención al cliente, actualmente orientado a desarrollar mi carrera en **Análisis de Datos y Business Intelligence**.
 
-Actualmente estoy complementando esa base con herramientas orientadas al análisis de datos y al entorno empresarial, trabajando con **Excel y SQL**, y ampliando progresivamente mis conocimientos en **Power Query, Power BI y DAX**.
+En este repositorio presento proyectos prácticos en los que trabajo con datos para responder preguntas de negocio, construir indicadores, identificar patrones y comunicar resultados mediante visualizaciones interactivas.
 
----
+**Herramientas:** SQL · MySQL · Power BI · DAX · Power Query · Excel
 
-## 🛠️ Tecnologías y herramientas
-
-- SQL
-- Excel
-- Power BI
-- Power Query
-- DAX
-- Análisis de datos
-- Análisis cuantitativo
-- Visualización de datos
-- Reporting
-- Análisis orientado a negocio
+**Objetivo profesional:** Data Analyst Junior | BI Junior | Reporting Analyst
 
 ---
 
-## 🚀 Actualmente estoy aprendiendo y desarrollando
+## ⭐ Proyectos destacados
 
-- Consultas y análisis de datos con SQL
-- Limpieza, clasificación y transformación de información
-- Análisis de datos en Excel
-- Creación de dashboards
-- Visualización de información
-- Análisis de KPIs
-- Resolución de problemas de negocio mediante datos
+### 🥇 Proyecto 12 | Rendimiento y eficiencia de campañas de marketing
+
+**Tecnologías:** SQL · MySQL · Power BI · DAX · Power Query
+
+Análisis de **500 campañas publicitarias** para evaluar el rendimiento de distintos canales, comparar ingresos atribuidos e inversión publicitaria e identificar oportunidades de optimización.
+
+**Características principales:**
+- Dashboard interactivo con ocho indicadores KPI.
+- Análisis de CTR, tasa de conversión y ROAS.
+- Comparación del rendimiento por canal y tipo de campaña.
+- Filtros e interacciones entre visualizaciones.
+- Formato condicional dinámico mediante DAX.
+- Validación de los resultados de Power BI mediante consultas SQL.
+
+**Hallazgo destacado:** Email presenta el mayor ROAS global (16,79), mientras que Meta alcanza un ROAS de 30,58 al analizar específicamente sus campañas de retención.
+
+📂 **[Explorar Proyecto 12](12-rendimiento-campanas-marketing/)**
 
 ---
 
-## 📂 Proyectos destacados
+### 🥈 Proyecto 11 | Análisis de clientes sin compras
 
-### 📈 01-Marketing Campaign Budget Analysis
+**Tecnologías:** SQL · MySQL · Power BI
 
-Análisis de campañas de marketing utilizando SQL para:
+Identificación de clientes sin registros de compra y análisis de su distribución para explorar posibles segmentos de reactivación.
 
-- Clasificar campañas según su presupuesto.
-- Comparar el gasto real frente al presupuesto asignado.
-- Detectar desviaciones presupuestarias.
-- Aplicar lógica condicional mediante CASE WHEN.
-- Transformar datos en información útil para el análisis.
+**Características principales:**
+- Consultas SQL para identificar clientes sin compras.
+- Análisis de 170 clientes identificados.
+- Visualización de la distribución por ciudad.
+- Análisis de antigüedad de los clientes.
+- Dashboard con indicadores y filtros interactivos.
 
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/01-marketing-campaign-budget-analysis)
+📂 **[Explorar Proyecto 11](11-clientes-sin-compras/)**
 
+---
 
-### 📊 02-Ranking de empleados por coste anual | SQL + Excel
+### 🥉 Proyecto 10 | Análisis del rendimiento comercial
 
-Proyecto práctico de análisis de datos para identificar los tres empleados con mayor coste anual en cada departamento.
+**Tecnologías:** SQL · MySQL · Power BI
 
-**Herramientas utilizadas:** MySQL Workbench y Microsoft Excel.
+Análisis del desempeño comercial para comparar resultados, identificar productos destacados e interpretar tendencias de ventas.
 
-**Competencias aplicadas:**
+**Características principales:**
+- Consultas SQL de agregación y análisis.
+- Comparación de resultados por categoría de producto.
+- Visualización de tendencias temporales.
+- Indicadores KPI de rendimiento comercial.
+- Dashboard interactivo desarrollado en Power BI.
 
-* Funciones de ventana `RANK()` y `PARTITION BY`.
-* Subconsultas y clasificación de datos.
-* Exportación de resultados SQL a Excel.
-* Elaboración de tablas dinámicas.
-* Visualización y comparación de costes mediante gráficos.
+📂 **[Explorar Proyecto 10](10-analisis-rendimiento-comercial/)**
 
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/02-employee-cost-ranking)
+---
 
-### 📊 03-Customer Support Analysis | SQL
+## 📁 Todos los proyectos
 
-Análisis de 500 registros de soporte al cliente mediante MySQL.
+Los proyectos están numerados según su desarrollo. Los primeros se centran en fundamentos de SQL y Excel; los más recientes incorporan análisis de negocio, Power BI y DAX.
 
-Desarrollé una consulta SQL para calcular indicadores de gestión por empleado: volumen de tickets, estados de resolución, tiempo promedio de gestión y porcentaje de resolución.
+| Proyecto | Área de análisis | Acceso |
+|---|---|---|
+| **12** | Rendimiento de campañas de marketing | [Ver proyecto](12-rendimiento-campanas-marketing/) |
+| **11** | Clientes sin compras | [Ver proyecto](11-clientes-sin-compras/) |
+| **10** | Rendimiento comercial | [Ver proyecto](10-analisis-rendimiento-comercial/) |
+| **09** | Ingresos y ventas | [Ver proyecto](09-analisis-ingresos-ventas/) |
+| **08** | Análisis salarial de RR. HH. | [Ver proyecto](08-analisis-salarial-rrhh/) |
+| **07** | Desviaciones presupuestarias en marketing | [Ver proyecto](07-campaign-budget-deviation-analysis/) |
+| **06** | Prioridad y estado de tickets | [Ver proyecto](06-ticket-priority-status-analysis/) |
+| **05** | Análisis por canal de ventas | [Ver proyecto](05-sales-channel-analysis/) |
+| **04** | Activos y riesgos por sucursal | [Ver proyecto](04-branch-asset-risk-analysis/) |
+| **03** | Análisis de soporte al cliente | [Ver proyecto](03-customer-support-analysis/) |
+| **02** | Ranking de empleados por coste anual | [Ver proyecto](02-employee-cost-ranking/) |
+| **01** | Presupuestos de campañas de marketing | [Ver proyecto](01-marketing-campaign-budget-analysis/) |
 
-**Tecnologías:** MySQL, SQL, CASE, COUNT, AVG, GROUP BY, HAVING y ORDER BY.
+---
 
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/03-customer-support-analysis)
+## 🛠️ Competencias técnicas
 
-### 🏢 04. Análisis de Riesgo de Activos por Sucursal | SQL
+### SQL y MySQL
+- Consultas, filtros y ordenación de datos.
+- JOIN y subconsultas.
+- Agregaciones con GROUP BY y HAVING.
+- Funciones de ventana y clasificación de registros.
+- Cálculo de indicadores y análisis de resultados.
 
-Proyecto práctico de análisis de datos enfocado en evaluar el estado de los activos de diferentes sucursales e identificar posibles niveles de riesgo operativo.
+### Power BI y DAX
+- Importación y transformación de datos.
+- Creación de medidas DAX.
+- Desarrollo de dashboards interactivos.
+- Indicadores KPI y comparaciones de rendimiento.
+- Segmentadores e interacciones entre gráficos.
+- Formato condicional y contexto de filtros.
 
-El análisis combina información de sucursales y activos para calcular:
+### Power Query y Excel
+- Limpieza y transformación de datos.
+- Validación de tipos de datos.
+- Fórmulas y funciones de búsqueda.
+- Tablas dinámicas y gráficos.
+- Análisis y presentación de información.
 
-- Total de activos por estado.
-- Coste total de los activos.
-- Inversión de la sucursal.
-- Porcentaje de activos inactivos o en mantenimiento.
-- Clasificación de riesgo por sucursal.
+---
 
-Para desarrollar el análisis utilicé CTEs encadenados, `INNER JOIN`, `COUNT()`, `SUM()`, `MAX()`, `ROUND()`, `CASE`, `GROUP BY`, `HAVING` y `ORDER BY`.
+## 🔎 Mi proceso de análisis
 
-Las sucursales se clasifican como:
+**1. Comprender el problema:** identificar qué pregunta de negocio queremos responder.
 
-- **Riesgo alto:** 50 % o más.
-- **Riesgo medio:** entre 25 % y 49,99 %.
-- **Riesgo bajo:** menos del 25 %.
+**2. Preparar los datos:** revisar estructura, calidad, tipos de datos y posibles inconsistencias.
 
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/04-branch-asset-risk-analysis)
+**3. Analizar:** desarrollar consultas SQL y calcular indicadores relevantes.
 
-### 📊 05. Análisis de ventas por canal | SQL + Power BI
+**4. Visualizar:** construir gráficos, dashboards y filtros interactivos.
 
-Análisis de ventas completadas por canal utilizando MySQL, SQL y Power BI.
-Durante el análisis utilicé `WHERE`, `GROUP BY`, `COUNT()` y `SUM()` para preparar los datos antes de visualizarlos en Power BI.
-
-- 433 ventas completadas
-- 35.400 € en ingresos
-- 846 unidades vendidas
-- Comparación de rendimiento por canal
-- Dashboard creado en Power BI
-
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/05-sales-channel-analysis)
-
-### 📊 Proyecto 06 — Gestión de tickets | SQL + Power BI
-
-Análisis de 500 tickets de soporte mediante SQL, Power Query, DAX y Power BI.
-
-- 500 tickets analizados.
-- 115 tickets pendientes de gestión (23 %).
-- Análisis de incidencias por prioridad y estado.
-- Dashboard interactivo con KPIs y barra de progreso.
-
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/06-ticket-priority-status-analysis)
-
-### 📊 Proyecto 07 — Análisis de desviación presupuestaria de campañas | SQL + Power BI
-
-Análisis de campañas de marketing mediante SQL, Power Query, DAX y Power BI para identificar sobrecostes y desviaciones presupuestarias.
-
-- 80 campañas sobre presupuesto.
-- 127,37 mil € de sobrecoste total.
-- Desviación media del 4,44 %.
-- Análisis de relación entre duración y desviación presupuestaria.
-- Dashboard interactivo con KPIs, rankings y tabla Top 15.
-
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/07-campaign-budget-deviation-analysis)
-
-
-### 📊 Proyecto 08 — Análisis salarial de Recursos Humanos | SQL + Power BI + DAX
-
-Análisis de salarios anuales y distribución de empleados activos mediante MySQL, Power BI y DAX. Desarrollo de un dashboard interactivo con indicadores salariales, comparativas por departamento y filtros dinámicos.
-
-- **466 empleados activos** distribuidos en 7 departamentos.
-- **33,58 mil €** de salario promedio anual general.
-- **35.542,01 €** de salario promedio en Recursos Humanos, el departamento con mayor promedio.
-- **134 empleados en Sales**, equivalentes al 28,8 % del total.
-- Cálculo del salario promedio ponderado mediante DAX.
-- Dashboard interactivo con KPIs, gráficos, tabla comparativa y conclusiones.
-
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/08-analisis-salarial-rrhh)
-
-
-
-### 📊 Proyecto 09 — Análisis de ingresos por ventas | SQL + Power BI + DAX
-
-Análisis de la evolución de ingresos procedentes de ventas completadas entre enero de 2024 y septiembre de 2026, mediante MySQL, Power BI y DAX.
-
-- **33 períodos mensuales analizados** entre 2024 y 2026.
-- **35,40 mil €** de ingresos totales.
-- **2025 concentra el 35,63 %** de los ingresos registrados.
-- **Agosto** es el mes con mayor facturación acumulada: 4,86 mil €.
-- Dashboard interactivo con gráficos de líneas, dona y filtros por año.
-- Cuatro indicadores KPI dinámicos mediante DAX.
-- Análisis de tendencias y comparación de períodos, considerando que 2026 tiene datos parciales.
-
-🔗 [Ver proyecto en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/09-analisis-ingresos-ventas)
-
-
-### 📊 Proyecto 10 — Análisis de ventas y rendimiento comercial | SQL + Power BI + DAX
-
-Análisis de ventas completadas mediante MySQL, SQL y Power BI, combinando información de productos y transacciones mediante `INNER JOIN` para evaluar ingresos, categorías, canales de venta y evolución temporal.
-
-- **433 ventas completadas** y 846 unidades vendidas.
-- **35.399,80 €** de ingresos totales.
-- **Kitchen Scale Plus 137:** producto líder con 660,11 € de facturación.
-- **Electronics:** categoría con mayor participación (30,54 %).
-- **Website:** canal con mayores ingresos.
-- Validación de integridad de datos antes y después del `INNER JOIN`.
-- Ranking Top 10 dinámico, segmentación por categoría y medidas DAX.
-- **Informe Power BI de dos páginas:** resumen ejecutivo y conclusiones comerciales.
-- Navegación interactiva, análisis temporal y recomendaciones basadas en datos.
-
-🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/10-analisis-rendimiento-comercial)
-
-
-### 📊 Proyecto 11 — Clientes sin compras | SQL + Power BI
-
-Análisis de clientes sin compras registradas mediante SQL y Power BI, utilizando `LEFT JOIN` e `IS NULL` para identificar oportunidades de análisis comercial.
-
-- **500 clientes** analizados, de los cuales **170 (34 %)** no registran compras.
-- **143 clientes activos sin compras**, identificados mediante medidas DAX.
-- Análisis de clientes por segmento, estado, ciudad y antigüedad desde el registro.
-- Visualización geográfica de ciudades españolas mediante **Azure Maps**.
-- Creación de indicadores dinámicos y filtros interactivos.
-- **38 clientes activos sin compras** con cuatro años o más desde su registro.
-- Dashboard Power BI de dos páginas con navegación y tabla de seguimiento.
-
-**Herramientas:** MySQL, SQL, Power Query, Power BI, DAX y Azure Maps.
-
-🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/11-clientes-sin-compras)
+**5. Interpretar:** explicar los resultados, identificar limitaciones y plantear conclusiones.
 
 ---
 
 ## 🎯 Objetivo profesional
 
-Mi objetivo es desarrollar mi carrera en posiciones relacionadas con:
+Busco mi primera oportunidad profesional como **Data Analyst Junior, BI Junior o Reporting Analyst**, donde pueda aplicar mis conocimientos técnicos, continuar aprendiendo y aportar una perspectiva analítica orientada al negocio.
 
-- Data Analyst Junior
-- Reporting Analyst
-- Business Intelligence Junior
-- Operations Analyst
-- Customer Experience Analyst
-- Data & Reporting Analyst
-
-Busco combinar mi formación en **Matemáticas**, mi experiencia profesional trabajando con clientes y operaciones, y mis nuevas competencias técnicas en análisis de datos.
-
-Mi objetivo es seguir desarrollando proyectos que demuestren mi capacidad para analizar información, detectar patrones y convertir datos en conocimiento útil para la toma de decisiones.
+Estoy interesado en oportunidades en Madrid, modalidades híbridas o remotas en España, así como oportunidades internacionales.
 
 ---
 
-## 📫 Conecta conmigo
+## 👤 Sobre este portfolio
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tomislav-salvarica)
+Este repositorio documenta mi evolución práctica en análisis de datos, desde consultas SQL iniciales hasta proyectos que integran SQL, Power BI y DAX.
 
-💻 [GitHub](https://github.com/tomislav-salvarica)
+Los proyectos utilizan datos de práctica o simulados con fines educativos y de desarrollo profesional.
+
+📫 **LinkedIn:** [Tomislav Salvarica](https://www.linkedin.com/in/tomislav-salvarica/)
