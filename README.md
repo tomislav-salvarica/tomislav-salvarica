@@ -21,6 +21,20 @@ En este portfolio presento proyectos prácticos donde utilizo datos para respond
 
 Estos son mis proyectos más completos, en los que combino análisis SQL, visualización de datos e interpretación de indicadores de negocio.
 
+
+### 📊 Proyecto 13 — Clientes por encima del gasto promedio | SQL + Power BI + DAX
+
+Análisis de 306 clientes con compras completadas mediante MySQL, utilizando CTE, subconsultas y funciones de agregación para identificar aquellos cuyo gasto acumulado supera el promedio general.
+
+- **306 clientes** analizados y **35,40 mil €** de gasto total.
+- **115,69 €** de gasto promedio por cliente.
+- **110 clientes (35,9 %)** superan el promedio y generan el **67,49 % del gasto total**.
+- Análisis de frecuencia de compra, segmentación de clientes y distribución regional.
+- Dashboard interactivo en Power BI con KPIs dinámicos, medidas DAX y ranking Top 10 con formato condicional.
+
+🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/13-clientes-sobre-gasto-promedio)
+  
+
 ### 🥇 Proyecto 12 | Rendimiento y eficiencia de campañas de marketing
 
 **Tecnologías:** SQL · MySQL · Power BI · DAX · Power Query
