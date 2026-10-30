@@ -22,6 +22,19 @@ En este portfolio presento proyectos prácticos donde utilizo datos para respond
 Estos son mis proyectos más completos, en los que combino análisis SQL, visualización de datos e interpretación de indicadores de negocio.
 
 
+### 📊 Proyecto 14 — Análisis de Márgenes y Rentabilidad Comercial | SQL + Power BI + DAX
+
+Análisis de rentabilidad comercial a partir de **433 ventas completadas**, integrando tres tablas de MySQL mediante INNER JOIN y desarrollando un dashboard interactivo en Power BI.
+
+- **35.400,80 €** de ingresos y **13.212,44 €** de margen absoluto estimado.
+- **37,33 %** de margen porcentual global.
+- Comparación de ingresos, costes y márgenes por categoría, subcategoría y canal de venta.
+- Análisis de clientes activos e inactivos, filtros interactivos y jerarquías de exploración.
+- **Herramientas:** MySQL, SQL, Power Query, Power BI y DAX (SUMX, DIVIDE).
+
+🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/14-analisis-margenes-rentabilidad-comercial)
+
+
 ### 📊 Proyecto 13 — Clientes por encima del gasto promedio | SQL + Power BI + DAX
 
 Análisis de 306 clientes con compras completadas mediante MySQL, utilizando CTE, subconsultas y funciones de agregación para identificar aquellos cuyo gasto acumulado supera el promedio general.
