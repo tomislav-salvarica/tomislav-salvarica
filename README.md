@@ -21,6 +21,24 @@ En este portfolio presento proyectos prácticos donde utilizo datos para respond
 
 Estos son mis proyectos más completos, en los que combino análisis SQL, visualización de datos e interpretación de indicadores de negocio.
 
+### 🚗 Proyecto 15 | Car Rental Pricing & Profitability Analysis
+
+**Excel Avanzado · Power BI · Pricing Analytics · Business Intelligence**
+
+Análisis de **30.000 registros simulados de alquiler de vehículos**, orientado a evaluar la rentabilidad, las tarifas comerciales y el posicionamiento frente a la competencia.
+
+**Principales resultados:**
+- 9,29 M€ de ingresos de reservas finalizadas.
+- 54,93 % de margen bruto.
+- 28.284 reservas comparables con la competencia.
+- Identificación de 370 registros con ID duplicado.
+- 4 dashboards desarrollados en Excel y Power BI.
+
+**Herramientas:** Excel avanzado, Power BI, análisis de KPI y validación de datos.
+
+**Estado:** Excel y Power BI publicados. Próxima fase: integración de MySQL.
+
+🔗 [Ver proyecto completo en GitHub](https://github.com/tomislav-salvarica/sql-data-analysis/tree/main/15-car-rental-pricing-analysis)
 
 ### 📊 Proyecto 14 — Análisis de Márgenes y Rentabilidad Comercial | SQL + Power BI + DAX
 
